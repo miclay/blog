@@ -1,6 +1,6 @@
 blog
 ====
 
-code and more...
+Coding & more...
 
-现在流行gitblog。。
+现在流行gitblog!
